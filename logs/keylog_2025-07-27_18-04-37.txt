@@ -1,0 +1,243 @@
+2025-07-27 18:04:44,186: Key pressed: s
+2025-07-27 18:04:44,271: Key pressed: a
+2025-07-27 18:04:44,416: Key pressed: j
+2025-07-27 18:04:44,791: Key pressed: h
+2025-07-27 18:04:44,834: Key pressed: j
+2025-07-27 18:04:45,018: Key pressed: a
+2025-07-27 18:04:45,073: Key pressed: c
+2025-07-27 18:04:45,140: Key pressed: f
+2025-07-27 18:04:45,207: Key pressed: h
+2025-07-27 18:04:45,239: Key pressed: i
+2025-07-27 18:04:45,380: Key pressed: o
+2025-07-27 18:04:45,752: Key pressed: o
+2025-07-27 18:04:45,783: Key pressed: i
+2025-07-27 18:04:45,821: Key pressed: e
+2025-07-27 18:04:45,831: Key pressed: r
+2025-07-27 18:04:46,115: Key pressed: f
+2025-07-27 18:04:46,412: Key pressed: w
+2025-07-27 18:04:46,449: Key pressed: a
+2025-07-27 18:04:46,466: Key pressed: o
+2025-07-27 18:04:46,543: Key pressed: i
+2025-07-27 18:04:46,572: Key pressed: e
+2025-07-27 18:04:46,637: Key pressed: r
+2025-07-27 18:04:46,681: Key pressed: j
+2025-07-27 18:04:47,028: Key pressed: o
+2025-07-27 18:04:47,103: Key pressed: j
+2025-07-27 18:04:47,105: Key pressed: g
+2025-07-27 18:04:47,655: Special key pressed: space
+2025-07-27 18:04:47,864: Key pressed: t
+2025-07-27 18:04:47,908: Key pressed: e
+2025-07-27 18:04:48,078: Key pressed: t
+2025-07-27 18:04:54,609: Key pressed: k
+2025-07-27 18:04:54,924: Key pressed: e
+2025-07-27 18:04:55,331: Key pressed: s
+2025-07-27 18:04:55,532: Key pressed: a
+2025-07-27 18:04:55,744: Special key pressed: space
+2025-07-27 18:04:55,966: Key pressed: h
+2025-07-27 18:04:56,057: Key pressed: a
+2025-07-27 18:04:56,260: Key pressed: i
+2025-07-27 18:04:56,441: Special key pressed: space
+2025-07-27 18:04:56,722: Key pressed: b
+2025-07-27 18:04:56,854: Key pressed: h
+2025-07-27 18:04:56,962: Key pressed: a
+2025-07-27 18:04:57,219: Key pressed: i
+2025-07-27 18:04:57,407: Special key pressed: space
+2025-07-27 18:04:57,665: Key pressed: t
+2025-07-27 18:04:59,123: Key pressed: u
+2025-07-27 18:04:59,563: Special key pressed: shift_r
+2025-07-27 18:04:59,703: Key pressed: ?
+2025-07-27 18:05:00,292: Special key pressed: enter
+2025-07-27 18:05:07,168: Key pressed: h
+2025-07-27 18:05:07,372: Key pressed: m
+2025-07-27 18:05:07,519: Key pressed: m
+2025-07-27 18:05:07,591: Key pressed: m
+2025-07-27 18:05:08,152: Special key pressed: ctrl_l
+2025-07-27 18:05:08,433: Key pressed: 
+2025-07-27 18:05:12,402: Special key pressed: ctrl_l
+2025-07-27 18:05:12,932: Key pressed: 
+2025-07-27 18:05:13,995: Special key pressed: ctrl_l
+2025-07-27 18:05:14,858: Key pressed: 
+2025-07-27 18:05:15,496: Key pressed: j
+2025-07-27 18:05:15,510: Key pressed: n
+2025-07-27 18:05:15,603: Key pressed: k
+2025-07-27 18:05:15,656: Key pressed: s
+2025-07-27 18:05:18,845: Special key pressed: backspace
+2025-07-27 18:05:19,348: Special key pressed: backspace
+2025-07-27 18:05:19,379: Special key pressed: backspace
+2025-07-27 18:05:19,408: Special key pressed: backspace
+2025-07-27 18:05:19,439: Special key pressed: backspace
+2025-07-27 18:05:19,469: Special key pressed: backspace
+2025-07-27 18:05:19,498: Special key pressed: backspace
+2025-07-27 18:05:19,529: Special key pressed: backspace
+2025-07-27 18:05:19,559: Special key pressed: backspace
+2025-07-27 18:05:19,589: Special key pressed: backspace
+2025-07-27 18:05:19,619: Special key pressed: backspace
+2025-07-27 18:05:19,651: Special key pressed: backspace
+2025-07-27 18:05:19,681: Special key pressed: backspace
+2025-07-27 18:05:19,712: Special key pressed: backspace
+2025-07-27 18:05:19,741: Special key pressed: backspace
+2025-07-27 18:05:19,772: Special key pressed: backspace
+2025-07-27 18:05:19,803: Special key pressed: backspace
+2025-07-27 18:05:19,949: Key pressed: g
+2025-07-27 18:05:20,136: Key pressed: i
+2025-07-27 18:05:20,419: Key pressed: t
+2025-07-27 18:05:20,544: Special key pressed: space
+2025-07-27 18:05:21,156: Key pressed: h
+2025-07-27 18:05:21,280: Key pressed: u
+2025-07-27 18:05:21,490: Key pressed: b
+2025-07-27 18:05:24,522: Special key pressed: backspace
+2025-07-27 18:05:25,026: Special key pressed: backspace
+2025-07-27 18:05:25,057: Special key pressed: backspace
+2025-07-27 18:05:25,089: Special key pressed: backspace
+2025-07-27 18:05:25,118: Special key pressed: backspace
+2025-07-27 18:05:25,148: Special key pressed: backspace
+2025-07-27 18:05:25,179: Special key pressed: backspace
+2025-07-27 18:05:25,208: Special key pressed: backspace
+2025-07-27 18:05:25,238: Special key pressed: backspace
+2025-07-27 18:05:25,268: Special key pressed: backspace
+2025-07-27 18:05:25,299: Special key pressed: backspace
+2025-07-27 18:05:25,329: Special key pressed: backspace
+2025-07-27 18:05:25,359: Special key pressed: backspace
+2025-07-27 18:05:25,389: Special key pressed: backspace
+2025-07-27 18:05:25,419: Special key pressed: backspace
+2025-07-27 18:05:25,450: Special key pressed: backspace
+2025-07-27 18:05:25,480: Special key pressed: backspace
+2025-07-27 18:05:25,509: Special key pressed: backspace
+2025-07-27 18:05:25,539: Special key pressed: backspace
+2025-07-27 18:05:25,569: Special key pressed: backspace
+2025-07-27 18:05:26,098: Key pressed: b
+2025-07-27 18:05:26,226: Key pressed: a
+2025-07-27 18:05:26,368: Key pressed: n
+2025-07-27 18:05:27,100: Key pressed: c
+2025-07-27 18:05:27,252: Key pressed: k
+2025-07-27 18:05:27,473: Special key pressed: space
+2025-07-27 18:05:28,042: Special key pressed: backspace
+2025-07-27 18:05:28,232: Special key pressed: backspace
+2025-07-27 18:05:28,386: Special key pressed: backspace
+2025-07-27 18:05:29,185: Key pressed: n
+2025-07-27 18:05:29,967: Special key pressed: backspace
+2025-07-27 18:05:31,654: Key pressed: k
+2025-07-27 18:05:31,661: Suspicious pattern detected: bank
+2025-07-27 18:05:32,144: Special key pressed: space
+2025-07-27 18:05:32,146: Suspicious pattern detected: bank
+2025-07-27 18:05:33,607: Key pressed: c
+2025-07-27 18:05:33,608: Suspicious pattern detected: bank
+2025-07-27 18:05:33,803: Key pressed: r
+2025-07-27 18:05:33,803: Suspicious pattern detected: bank
+2025-07-27 18:05:34,274: Key pressed: e
+2025-07-27 18:05:34,276: Suspicious pattern detected: bank
+2025-07-27 18:05:36,874: Special key pressed: backspace
+2025-07-27 18:05:36,875: Suspicious pattern detected: bank
+2025-07-27 18:05:37,056: Special key pressed: backspace
+2025-07-27 18:05:37,058: Suspicious pattern detected: bank
+2025-07-27 18:05:37,434: Special key pressed: backspace
+2025-07-27 18:05:37,435: Suspicious pattern detected: bank
+2025-07-27 18:05:37,878: Key pressed: n
+2025-07-27 18:05:37,882: Suspicious pattern detected: bank
+2025-07-27 18:05:38,138: Key pressed: u
+2025-07-27 18:05:38,139: Suspicious pattern detected: bank
+2025-07-27 18:05:38,387: Key pressed: m
+2025-07-27 18:05:38,387: Suspicious pattern detected: bank
+2025-07-27 18:05:38,635: Key pressed: b
+2025-07-27 18:05:38,640: Suspicious pattern detected: bank
+2025-07-27 18:05:38,748: Key pressed: e
+2025-07-27 18:05:38,748: Suspicious pattern detected: bank
+2025-07-27 18:05:38,928: Key pressed: r
+2025-07-27 18:05:38,929: Suspicious pattern detected: bank
+2025-07-27 18:05:39,454: Special key pressed: space
+2025-07-27 18:05:39,457: Suspicious pattern detected: bank
+2025-07-27 18:05:47,562: Special key pressed: backspace
+2025-07-27 18:05:47,566: Suspicious pattern detected: bank
+2025-07-27 18:05:47,782: Special key pressed: shift
+2025-07-27 18:05:47,782: Suspicious pattern detected: bank
+2025-07-27 18:05:48,057: Key pressed: >
+2025-07-27 18:05:48,058: Suspicious pattern detected: bank
+2025-07-27 18:05:48,539: Special key pressed: backspace
+2025-07-27 18:05:48,540: Suspicious pattern detected: bank
+2025-07-27 18:05:49,427: Special key pressed: shift
+2025-07-27 18:05:49,428: Suspicious pattern detected: bank
+2025-07-27 18:05:49,538: Key pressed: :
+2025-07-27 18:05:49,539: Suspicious pattern detected: bank
+2025-07-27 18:05:49,941: Special key pressed: space
+2025-07-27 18:05:49,941: Suspicious pattern detected: bank
+2025-07-27 18:05:52,536: Key pressed: 2
+2025-07-27 18:05:52,538: Suspicious pattern detected: bank
+2025-07-27 18:05:52,661: Key pressed: 9
+2025-07-27 18:05:52,663: Suspicious pattern detected: bank
+2025-07-27 18:05:52,879: Key pressed: 2
+2025-07-27 18:05:52,880: Suspicious pattern detected: bank
+2025-07-27 18:05:52,924: Key pressed: 3
+2025-07-27 18:05:52,940: Suspicious pattern detected: bank
+2025-07-27 18:05:52,982: Key pressed: 0
+2025-07-27 18:05:52,986: Suspicious pattern detected: bank
+2025-07-27 18:05:53,265: Key pressed: 4
+2025-07-27 18:05:53,265: Suspicious pattern detected: bank
+2025-07-27 18:05:53,288: Key pressed: -
+2025-07-27 18:05:53,290: Suspicious pattern detected: bank
+2025-07-27 18:05:53,640: Key pressed: 9
+2025-07-27 18:05:53,824: Key pressed: 4
+2025-07-27 18:05:53,866: Key pressed: -
+2025-07-27 18:05:54,144: Key pressed: 3
+2025-07-27 18:05:54,205: Key pressed: -
+2025-07-27 18:05:54,281: Key pressed: 9
+2025-07-27 18:05:54,406: Key pressed: 5
+2025-07-27 18:05:54,519: Key pressed: 0
+2025-07-27 18:05:54,811: Key pressed: 5
+2025-07-27 18:05:55,008: Special key pressed: space
+2025-07-27 18:05:56,172: Special key pressed: shift
+2025-07-27 18:05:56,520: Key pressed: <
+2025-07-27 18:05:56,846: Special key pressed: space
+2025-07-27 18:05:57,671: Key pressed: p
+2025-07-27 18:05:57,816: Key pressed: a
+2025-07-27 18:05:58,210: Key pressed: s
+2025-07-27 18:05:58,367: Key pressed: s
+2025-07-27 18:05:58,368: Suspicious pattern detected: pass
+2025-07-27 18:05:59,100: Key pressed: w
+2025-07-27 18:05:59,101: Suspicious pattern detected: pass
+2025-07-27 18:05:59,262: Key pressed: o
+2025-07-27 18:05:59,263: Suspicious pattern detected: pass
+2025-07-27 18:05:59,521: Key pressed: r
+2025-07-27 18:05:59,526: Suspicious pattern detected: pass
+2025-07-27 18:06:00,068: Key pressed: d
+2025-07-27 18:06:00,069: Suspicious pattern detected: password
+2025-07-27 18:06:00,278: Special key pressed: space
+2025-07-27 18:06:00,282: Suspicious pattern detected: password
+2025-07-27 18:06:00,892: Key pressed: j
+2025-07-27 18:06:00,899: Suspicious pattern detected: password
+2025-07-27 18:06:00,941: Key pressed: k
+2025-07-27 18:06:00,943: Suspicious pattern detected: password
+2025-07-27 18:06:01,117: Key pressed: n
+2025-07-27 18:06:01,117: Suspicious pattern detected: password
+2025-07-27 18:06:01,129: Key pressed: d
+2025-07-27 18:06:01,130: Suspicious pattern detected: password
+2025-07-27 18:06:01,177: Key pressed: v
+2025-07-27 18:06:01,178: Suspicious pattern detected: password
+2025-07-27 18:06:01,387: Key pressed: j
+2025-07-27 18:06:01,388: Suspicious pattern detected: password
+2025-07-27 18:06:01,482: Key pressed: s
+2025-07-27 18:06:01,484: Suspicious pattern detected: password
+2025-07-27 18:06:01,528: Key pressed: d
+2025-07-27 18:06:01,529: Suspicious pattern detected: password
+2025-07-27 18:06:01,574: Key pressed: v
+2025-07-27 18:06:01,575: Suspicious pattern detected: password
+2025-07-27 18:06:13,604: Special key pressed: ctrl_l
+2025-07-27 18:06:13,605: Suspicious pattern detected: password
+2025-07-27 18:06:14,073: Key pressed: 
+2025-07-27 18:06:14,081: Suspicious pattern detected: password
+2025-07-27 18:06:14,955: Special key pressed: ctrl_l
+2025-07-27 18:06:14,961: Suspicious pattern detected: password
+2025-07-27 18:06:15,113: Key pressed: 
+2025-07-27 18:06:15,114: Suspicious pattern detected: password
+2025-07-27 18:06:15,529: Key pressed: 
+2025-07-27 18:06:16,548: Special key pressed: ctrl_l
+2025-07-27 18:06:16,749: Key pressed: 
+2025-07-27 18:06:17,062: Key pressed: 
+2025-07-27 18:06:17,290: Key pressed: 
+2025-07-27 18:06:17,494: Key pressed: 
+2025-07-27 18:06:17,673: Key pressed: 
+2025-07-27 18:06:19,585: Special key pressed: ctrl_l
+2025-07-27 18:06:20,554: Special key pressed: ctrl_l
+2025-07-27 18:06:20,967: Key pressed: 
+2025-07-27 18:06:21,018: Key pressed: 
+2025-07-27 18:06:21,295: Key pressed: 
+2025-07-27 18:06:21,915: Special key pressed: esc
